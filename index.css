@@ -6,3 +6,18 @@ a:hover {
   cursor: pointer;
   color: red;
   }
+
+.widgetContainer {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  background-color: rgb(255,255,255,0.9);
+  top: 20%;
+  left: 0%;
+  @extend i;
+  border: 1px solid black;
+  width: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 5px;
+}
