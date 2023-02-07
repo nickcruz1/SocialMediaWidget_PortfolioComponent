@@ -14,7 +14,7 @@ a:hover {
   background-color: rgb(255,255,255,0.9);
   top: 20%;
   left: 0%;
-  @extend i;
+  margin: 5px 0 5px 0;
   border: 1px solid black;
   width: 20px;
   border-radius: 10px;
